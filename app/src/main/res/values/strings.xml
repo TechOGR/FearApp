@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FearApp</string>
+    <string name="fondo_description">Esta es la imagen de fondo de pantalla</string>
+    <string name="text_button_qr_scan">Take a Picture</string>
+    <string name="nothing" />
+    <string name="welcome_text">Happy HallOween</string>
+    <string name="text_no_touch">No Tocar :)</string>
+    <string name="bubble_text">Touch Me!</string>
+</resources>
